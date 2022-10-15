@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# Busca CEP
 
-Rápida descrição do objetivo de fazer esse projeto
+Consulte aqui qualquer CEP
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Busca CEP**
+| :label: Tecnologias | python, django, html, css, api
+| :rocket: URL         | [pedro.pythonanywhere.com/cep](pedro.pythonanywhere.com/cep)
+| :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://user-images.githubusercontent.com/40746318/195998073-20bb784b-0225-4049-bd20-89bd648364e5.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+O projeto é um aplicativo web que consome a API ViaCep que fornece dados de endereços de todo o brasil conforme o Código de Endereço Postal (CEP), ao acessar o serviço o usuário deve inserir o CEP com (8 dígitos) e receberá em seguida os dados consultados
