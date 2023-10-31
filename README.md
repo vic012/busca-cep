@@ -6,7 +6,7 @@ Consulte aqui qualquer CEP
 | -------------  | --- |
 | :sparkles: Nome        | **Busca CEP**
 | :label: Tecnologias | python, django, html, css, api
-| :rocket: URL         | pedro.pythonanywhere.com/cep
+| :rocket: URL         | [pedro.pythonanywhere.com/cep](pedro.pythonanywhere.com/cep)
 | :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
